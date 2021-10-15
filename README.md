@@ -15,3 +15,6 @@ Continue Workout
 After choosing one of the two, you specify Either Resistance or Cardio type workout
 Depending on which you choose, there will be different fields for you to fill out, though they are fairly self explanitory
 Afterwards you will hit complete and you will then go back to the dashboard and see the results.
+## Made by
+This project was made 
+Evan Ebert - https://github.com/evan-ebert17
